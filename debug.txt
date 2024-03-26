@@ -1,0 +1,4 @@
+sizew = 5 sizeh = 5
+ERROR: bad input
+array wipe
+stream wipe
